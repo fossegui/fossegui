@@ -1,9 +1,8 @@
- - 👋👀 Hi, i’m @fossegui, or Guilherme Pereira de Jesus, and i want to facilitate the client coverage, facilitating the message transmission though the Internet and connecting more peoples using sites.
-- 🌱 In this manner, we have a more clean form of sales and divulgation and a society more data-driven. 
-- 💞️ For do that, i am learning HTML, CSS and i will to learn Javascript. For work with data, i am continuing my studies in Data Analysis, learning SQL, Power BI and Python.
+- Biólogo com experiência de sete anos em análise de dados, sou capaz de gerar e analisar métricas capazes de solucionar o problema de negócio, através do uso de Power BI, SQL, Excel avançado, estatística, GIT, HTML e CSS, além de apresentar os insights para públicos variados, sempre adaptando a linguagem.
 
-- 👀 A new age is approximating and i want be part of paradigm change in our lives, using each time more technology for accomplish new reaches.
-- 💞️ I am looking for collaborate on new projects, increasing the value in application and learning new abilities and competences.
+- Também possuo conhecimento de negócios, vindo da vivência atuando no setor financeiro, administrativo, de pessoas e projetos, e na metodologia Scrum. Quero facilitar tomadas de decisões baseadas em dados, além de promover a transformação digital de negócios.
+  
+- Capaz de encontrar oportunidades de melhorias com base nos insights vindos da análise.
 
 
 <!---
