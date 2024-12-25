@@ -1,10 +1,9 @@
-- Biólogo com experiência de sete anos em análise de dados, sou capaz de gerar e analisar métricas capazes de solucionar o problema de negócio, através do uso de Power BI, SQL, Excel avançado, estatística, GIT, HTML, CSS e Javascript, além de apresentar os insights para públicos variados, sempre adaptando a linguagem.
+- Biólogo com experiência de sete anos em análise de dados, sou capaz de gerar insights e recomendações para colaborar com tomada de decisão, através do uso de Power BI, SQL, Excel avançado, estatística e GIT, apresentando o que for descoberto usando linguagem adaptada para diferentes públicos.
 
 - Também possuo conhecimento de negócios, vindo da vivência atuando no setor financeiro, administrativo, de pessoas e projetos, e na metodologia Scrum.
 
-- Quero facilitar tomadas de decisões baseadas em dados, além de promover a transformação digital de negócios.
+- Quero facilitar tomadas de decisões baseadas em dados, além de promover a transformação digital de negócios, podendo usar o conhecimento em dados ou a criação e manutenção de software com HTML, CSS e Javascript.
   
-- Capaz de encontrar oportunidades de melhorias com base nos insights vindos da análise.
 
 
 <!---
